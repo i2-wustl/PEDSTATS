@@ -25,7 +25,7 @@ CXX=g++
 #                                    on systems where gcc supports the long
 #                                    long data type and on Windows.
 # 
-USERFLAGS=
+USERFLAGS=-Wno-narrowing
 CFLAGS=-O2 -I./libsrc -I./pedstats -I./janpdf -D__ZLIB_AVAILABLE__ $(USERFLAGS)
 
 # executable file names and locations
