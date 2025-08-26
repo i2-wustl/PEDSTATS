@@ -1,3 +1,12 @@
+# PEDSTATS
+
+An original copy of [PEDSTATS][0] downloaded from:
+    
+https://csg.sph.umich.edu/abecasis/PedStats/download/pedstats-0.6.12.tar.gz
+
+# Original README
+
+```
 PEDSTATS  
 (c) 2000 - 2005 Goncalo Abecasis, portions (c) 2002-2005 Jan Wigginton
 
@@ -96,3 +105,6 @@ data Bioinformatics 21:3445 - 3447
 
 Jan Wigginton
 wiggie@umich.edu
+```
+
+[0]: https://csg.sph.umich.edu/abecasis/PedStats/index.html
